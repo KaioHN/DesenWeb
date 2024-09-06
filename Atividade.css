@@ -4,20 +4,34 @@
     height: 50%;  
     justify-content: center;
     background-color: #ff9292;
+    font-size: large;
+    ;
+
 }
 
 li{
-    padding: 5px;
+    padding: 10px;
+    font-style: italic;
 }
 
 body{
     background-color:#3a0000;
+    font-family:monospace;
+    font-style: oblique;
 
 }
 h3, h2{
     text-align: center;
     font-size: 35px;
+    color: #700101; 
+
+
 }
+
+h2{
+    text-decoration: underline;
+}
+
 
 table{
     width: 100%;
@@ -34,7 +48,7 @@ table{
 
 a{
 
-    color: #3a0000;
+    color: #9e0000;
 }
 
 th,td{
@@ -46,9 +60,9 @@ th,td{
 }
 
 video{
-    width: 95%;
-    height: 95%;
-    border: 5px solid #3a0000;
+    width: 95%;    
+    height: 100%;
+    border: 5px solid #b40000;
 }
 
 th{
