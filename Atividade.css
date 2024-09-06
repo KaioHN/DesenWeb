@@ -1,0 +1,71 @@
+.tabela, .v1{
+    border: 5px solid #9e0000;
+    width: 500px;   
+    height: 50%;  
+    justify-content: center;
+    background-color: #ff9292;
+}
+
+li{
+    padding: 5px;
+}
+
+body{
+    background-color:#3a0000;
+
+}
+h3, h2{
+    text-align: center;
+    font-size: 35px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
+.bosses{
+    text-align: justify;
+    font-size: 150%;
+    margin: 20px;
+    text-decoration: none;
+}
+
+a{
+
+    color: #3a0000;
+}
+
+th,td{
+    border: 1px solid #b40000;
+    padding: 8px;
+    text-align: center;
+    margin: 8px;
+    width: 10px;
+}
+
+video{
+    width: 95%;
+    height: 95%;
+    border: 5px solid #3a0000;
+}
+
+th{
+
+    background-color: #d14e4e;
+}
+tr{
+    background-color: #ff9292;
+}
+.v1{
+    justify-content: center;
+    width: 500px;   
+    height: 150px;
+}
+
+.pump-action, .marskman, .piercer{
+    width: 100%;
+    height: 100%;
+
+}
